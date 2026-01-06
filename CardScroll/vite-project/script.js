@@ -44,7 +44,7 @@ document.addEventListener("DOMContentLoaded", () => {
     gsap.to(description, {
       x: 0,
       opacity: 1,
-      duraation: 0.75,
+      duration: 0.75,
       ease: "power4.out",
       delay: 0.1,
     });

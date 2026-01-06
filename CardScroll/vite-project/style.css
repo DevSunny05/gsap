@@ -102,6 +102,15 @@ section{
     overflow: hidden;
 }
 
+.intro .card-image{
+    border-radius: 400px !important;
+    scale: 0.5;
+}
+
+.intro .card-image img{
+    transform: scale(1.5);  
+}
+
 .card-image img{
     transform: scale(2);
 }
